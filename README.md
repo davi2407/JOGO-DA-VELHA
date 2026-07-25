@@ -1,2 +1,2 @@
 # JOGO-DA-VELHA
-Jogo da velha,criei emHTML,CSS,JAVASCRIPT
+Jogo da velha,criei em HTML,CSS,JAVASCRIPT
