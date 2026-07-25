@@ -1,2 +1,2 @@
-# JOGO-DA-VELHA
-Jogo da velha,criei em HTML,CSS,JAVASCRIPT
+# CALCULADORA DE IMC
+Calculadora de IMC,criei em HTML,CSS,JAVASCRIPT
