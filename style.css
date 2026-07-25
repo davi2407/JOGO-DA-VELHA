@@ -1,0 +1,75 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(114, 110, 110);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.container{
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    width: 320px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.2);
+}
+
+h1{
+    text-align: center;
+}
+
+label{
+    display: block;
+    margin-top: 10px;
+}
+
+input{
+    width: 100%;
+    padding: 10px;
+    margin-top: 5px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: #0077cc;
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover{
+    background-color: #005fa3;
+}
+
+.resultado{
+    margin-top: 20px;
+    padding: 15px;
+    border-radius: 5px;
+    text-align: center;
+    font-weight: bold;
+    color: white;
+}
+
+/* Classes das classificações */
+
+.abaixo{
+    background-color: #3498db;
+}
+
+.normal{
+    background-color: #2ecc71;
+}
+
+.sobrepeso{
+    background-color: #f1c40f;
+    color: black;
+}
+
+.obesidade{
+    background-color: #e74c3c;
+}
